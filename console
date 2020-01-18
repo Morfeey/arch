@@ -1,4 +1,4 @@
 <?php
 include_once "vendor/bootstrap.php";
 
-print "hello world";
+print "hello i'am console";
